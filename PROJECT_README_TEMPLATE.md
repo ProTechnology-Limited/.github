@@ -1,4 +1,4 @@
-# ProTrader by ProTechnology Limited
+# ProTrader
 
 ### Your Gateway to Multi-Market Digital Trading
 
